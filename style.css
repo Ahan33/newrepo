@@ -1,0 +1,13 @@
+.top: {
+    height: 100px;
+}
+.main: {
+    width: 1000px;
+    color: blue;
+}
+.left: {
+    width: 50%;
+}
+.right: {
+    width: 50%;
+}
